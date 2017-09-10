@@ -1,0 +1,22 @@
+{
+  "name": "playcanvas-local-host",
+  "version": "1.0.0",
+  "description": "Loading screen script to support Webpack Dev Server serving ES6 bundled code",
+  "main": "loading_screen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whydoidoit/playcanvas-local-host.git"
+  },
+  "keywords": [
+    "PlayCanvas"
+  ],
+  "author": "Mike Talbot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whydoidoit/playcanvas-local-host/issues"
+  },
+  "homepage": "https://github.com/whydoidoit/playcanvas-local-host#readme"
+}
